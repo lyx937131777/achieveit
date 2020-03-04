@@ -13,6 +13,8 @@
 
 2.打开mysql，新建scis，设置账号密码（建议用root 和 123456）
 
+![image](https://github.com/lyx937131777/achieveit/blob/master/images/mysql1.png)
+
 3.进入scis，输入【create Database scis;】并执行（闪电图标）
 
 ![image](https://github.com/lyx937131777/achieveit/blob/master/images/mysql.png)
@@ -30,3 +32,13 @@
 7.打开src/main/java/com/cohy/scis/ScisApplication 并运行
 
 ![image](https://github.com/lyx937131777/achieveit/blob/master/images/start.png)
+
+8.在浏览器输入 http://localhost:8080/ 即可打开网页
+
+9.测试登录账号+密码+类型
+
+1001 123456 管理员
+1306 123456 学生
+1002 123456 老师
+123456 123456 专家
+（目前没有注册功能，可自主在数据库中添加新数据测试）
