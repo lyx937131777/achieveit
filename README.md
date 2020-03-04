@@ -13,11 +13,12 @@
 
 2.打开mysql，新建scis，设置账号密码（建议用root 和 123456）
 
-![image](https://github.com/lyx937131777/achieveit/blob/master/images/mysql1.png)
+![image](https://github.com/lyx937131777/achieveit/images/mysql1.png)
 
+（若图片无法显示，可以克隆到本地后在images文件夹中查看图片）
 3.进入scis，输入【create Database scis;】并执行（闪电图标）
 
-![image](https://github.com/lyx937131777/achieveit/blob/master/images/mysql.png)
+![image](https://github.com/lyx937131777/achieveit/images/mysql.png)
 
 4.用IDEA打开项目，进入src/main/resources
 
