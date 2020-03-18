@@ -15,6 +15,7 @@
 
 ![image](https://github.com/lyx937131777/achieveit/blob/master/images/mysql1.png)
 
+（若图片无法显示，可以克隆到本地后在images文件夹中查看图片）
 3.进入scis，输入【create Database scis;】并执行（闪电图标）
 
 ![image](https://github.com/lyx937131777/achieveit/blob/master/images/mysql.png)
@@ -38,7 +39,11 @@
 9.测试登录账号+密码+类型
 
 1001 123456 管理员
+
 1306 123456 学生
+
 1002 123456 老师
+
 123456 123456 专家
+
 （目前没有注册功能，可自主在数据库中添加新数据测试）
